@@ -8,4 +8,4 @@ Using the code for a specific spinal procedure, DRG 029, the goal of this projec
 <img width="993" alt="Screen Shot 2023-01-16 at 3 04 51 PM" src="https://user-images.githubusercontent.com/121649263/212803926-b9c03e96-f984-40ea-8a5a-87c03f39d638.png" width="350" height="auto">
 
 ## Take Aways
-The analysis illustrated that most people prefer to purchase tickets less than two week in advance, showing that the tickets prices don't play a big role for the purchase. Also, July was the month that had the highest amount of tickets bought, despite the fact that it had the second highest average price for tickets.
+The analysis illustrated that most people prefer to purchase tickets less than two week in advance, showing that the tickets prices don't play a big role for the purchase. Alternatively, July was the month that had the highest amount of tickets bought, despite the fact that it had the second highest average price for tickets.
